@@ -16,11 +16,9 @@
 
 ## 💼 work
 
-Full-stack engineer building things I care about. Focused on developer tooling, clean APIs, and fast UIs.
+Analyst Consultant - I worked in the entertainment sector and now focusing on the finance sector
 
-Most of my public work lives on my portfolio site — built and hosted via GitHub Pages.
-
-> **[→ Visit yourname.dev](https://yourname.dev)**  *(links to your GitHub Pages repo)*
+> **[→ See what I have learnt](https://yourname.dev)**  *(links to your GitHub Pages repo)*
 
 ---
 
