@@ -5,7 +5,7 @@
 
 # Hiya I am Zi
 
-*Consultant Analyst · BJJ blue belt [Gi] · Kickboxer*
+*Consultant Analyst · BJJ🟦⬛️🟦[Gi] · Kickboxer . ARAM Enjoyer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zihao_Xu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zihaoxu98/)
 
@@ -29,7 +29,7 @@ I (am going to) made this to compile stuff I have learnt as a reminder for mysel
 
 ---
 
-## 🎮 gaming
+## 🎮 Gaming
 
 Mainly League of Legends on EUW. Stats below auto-refresh every day via GitHub Actions.
 

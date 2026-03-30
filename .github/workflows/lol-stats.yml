@@ -1,0 +1,40 @@
+name: Update LoL Stats
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip requests
+
+      - name: Generate stats SVG
+        env:
+          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+          RIOT_REGION: ${{ secrets.RIOT_REGION }}
+          RIOT_PLATFORM: ${{ secrets.RIOT_PLATFORM }}
+          RIOT_GAME_NAME: ${{ secrets.RIOT_GAME_NAME }}
+          RIOT_TAG_LINE: ${{ secrets.RIOT_TAG_LINE }}
+        run: python scripts/lol_stats.py
+
+      - name: Commit updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh League stats card"
+          file_pattern: assets/lol-stats.svg
