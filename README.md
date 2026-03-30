@@ -7,42 +7,25 @@
 
 *Consultant Analyst · BJJ blue belt [Gi] · Kickboxer*
 
-[![E - mail](https://img.shields.io/badge/Email-zihao.xu@bath.edu-blue)](zihao.xu@bath.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zihao_Xu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zihaoxu98/)
 
 </div>
 
 ---
 
-## 💼 work
+## 💼 Work
 
-Full-stack engineer building things I care about. Focused on developer tooling, clean APIs, and fast UIs.
+I studied IMEE at the University of Bath.
+<br>
+Then worked as **Market Researcher** in the Media Entertainment Industry
+<br>
+Now I am working as **Analyst Consultant** in the Banking Industry
 
-Most of my public work lives on my portfolio site — built and hosted via GitHub Pages.
+I like to make some random stuff for fun or help me automate my hobby and work :D
 
-> **[→ Visit yourname.dev](https://yourname.dev)**  *(links to your GitHub Pages repo)*
+I (am going to) made this to compile stuff I have learnt as a reminder for myself and maybe some others can find it useful — built and hosted via GitHub Pages.
 
----
-
-## 🥋 martial arts
-
-Training BJJ and Muay Thai out of London. Blue belt in BJJ, competing occasionally.
-
-### belt & grade progression
-
-| discipline   | current grade     | training since | academy        |
-|--------------|-------------------|----------------|----------------|
-| BJJ          | 🔵 Blue belt       | 2023           | TMAP BJJ   |
-| Kickboxing    | 🔵 Blue belt    | 2022           | TMAP (Swiss Cottage)      |
-
-### competition record
-<!-- 🥇🥈🥉❌ -->
-
-| event                   | discipline  | weight class | bracket size | round robin |result |
-|-------------------------|-------------|--------------|--------|--------|--------|
-| IBJJF Open 2024         | BJJ         | -76kg        | ✅ W   |✅ W   |✅ W   |
-| Grappling Industries 2024 | BJJ       | -76kg        | ❌ L   |❌ L   |❌ L   |
-| Local MT Smoker 2024    | Muay Thai   | -75kg        | ✅ W   |✅ W   |✅ W   |
+> **[→ Visit yourname.dev](https://yourname.dev)**
 
 ---
 
