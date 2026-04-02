@@ -30,4 +30,4 @@ I (am going to) made this to compile stuff I have learnt as a reminder for mysel
 ---
 
 ## 👀 Stuff
-
+[![Gamba](https://img.shields.io/badge/github-Gamba-blue?logo=github)](https://github.com/ZoverX/Gamba) Description TBC
