@@ -25,7 +25,7 @@ I like to make some random stuff for fun or help me automate my hobby and work :
 
 I (am going to) made this to compile stuff I have learnt as a reminder for myself and maybe some others can find it useful — built and hosted via GitHub Pages.
 
-> **[→ Visit yourname.dev](https://yourname.dev)**
+> **[→ Visit My Market Research Notes](https://zoverx.github.io/MarketResearch/)**
 
 ---
 
